@@ -3,7 +3,7 @@
     "line": 1,
     "elements": [
       {
-        "start_timestamp": "2019-11-26T04:05:37.919Z",
+        "start_timestamp": "2019-11-26T07:25:17.282Z",
         "line": 4,
         "name": "Add two numbers",
         "description": "",
@@ -13,7 +13,7 @@
         "steps": [
           {
             "result": {
-              "duration": 1742600,
+              "duration": 2879700,
               "status": "passed"
             },
             "line": 5,
@@ -25,7 +25,7 @@
           },
           {
             "result": {
-              "duration": 122300,
+              "duration": 8558300,
               "status": "passed"
             },
             "line": 6,
@@ -37,7 +37,7 @@
           },
           {
             "result": {
-              "duration": 120200,
+              "duration": 702500,
               "status": "passed"
             },
             "line": 7,
@@ -49,7 +49,7 @@
           },
           {
             "result": {
-              "duration": 72500,
+              "duration": 160200,
               "status": "passed"
             },
             "line": 8,
@@ -61,7 +61,7 @@
           },
           {
             "result": {
-              "duration": 167200,
+              "duration": 451700,
               "status": "passed"
             },
             "line": 9,
